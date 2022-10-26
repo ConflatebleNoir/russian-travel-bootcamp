@@ -1,0 +1,8 @@
+.header__lang-link_active {
+    text-decoration: underline;
+    transition: .7s ease;
+}
+
+.header__lang-link_active:hover {
+    text-decoration: none;
+}
