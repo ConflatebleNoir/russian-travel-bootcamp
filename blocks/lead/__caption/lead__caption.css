@@ -1,3 +1,6 @@
 .lead__caption {
+    font: 400 10px/14px 'Inter', sans-serif;
     text-align: left;
+    margin: 8px 0 0 0;
+    text-transform: uppercase;
 }
