@@ -1,0 +1,7 @@
+.place__title {
+    max-width: 460px;
+    width: 100%;
+    font: 900 72px/76px 'Inter', sans-serif;
+    color: #fff;
+    margin: 0;
+}
