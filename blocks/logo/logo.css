@@ -1,0 +1,12 @@
+.logo {
+    min-width: 176px;
+    min-height: 52px;
+    text-decoration: none;
+    background-image: url(../../images/logo_header.svg);
+    background-repeat: no-repeat;
+    transition: .7s ease;
+}
+
+.logo:hover {
+    opacity: .8;
+}
