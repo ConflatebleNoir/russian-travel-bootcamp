@@ -1,0 +1,9 @@
+.cover__overlay {
+    width: 100%;
+    min-height: 740px;
+    background-image: url(../../../images/cover_background.svg);
+    opacity: 0.8;
+    position: absolute;
+    transition: .7s ease;
+    z-index: 1;
+}

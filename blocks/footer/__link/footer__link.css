@@ -1,0 +1,10 @@
+.footer__link {
+    text-decoration: none;
+    font: 400 16px/18px 'Inter', sans-serif;
+    color: #fff;
+    transition: .7s ease;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+}

@@ -4,4 +4,9 @@
     margin: 12px 0 0 0;
     text-decoration: none;
     border-bottom: 1px solid #fff;
+    transition: .7s ease;
+}
+
+.place__link:hover {
+    opacity: 0.8;
 }
