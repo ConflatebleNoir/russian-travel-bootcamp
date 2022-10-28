@@ -2,6 +2,14 @@
     max-width: 984px;
     box-sizing: border-box;
     margin: 56px auto 0 auto;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     color: #fff;
+}
+
+@media screen and (max-width: 1280px) {
+    .lead {
+        max-width: 928px;
+    }
 }

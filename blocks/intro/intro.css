@@ -4,3 +4,22 @@
     margin: 92px auto 0 auto;
     text-align: left;
 }
+
+@media screen and (max-width: 1280px) {
+    .intro {
+        max-width: 928px;
+        margin-top: 88px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        margin: 88px 24px 0 24px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        margin: 88px 16px 0 16px;
+    }
+}

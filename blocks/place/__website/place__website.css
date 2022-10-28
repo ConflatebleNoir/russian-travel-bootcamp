@@ -1,7 +1,7 @@
 .place__website {
-    max-width: 460px;
+    max-width: 484px;
     display: flex;
     flex-direction: column;
-    text-align: bottom;
+    align-items: flex-start;
     justify-content: flex-end;
 }

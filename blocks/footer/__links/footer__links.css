@@ -3,3 +3,10 @@
     column-gap: 24px;
     text-decoration: none;
 }
+
+@media screen and (max-width: 768px) {
+    .footer__links {
+        flex-direction: column;
+        row-gap: 32px;
+    }
+}

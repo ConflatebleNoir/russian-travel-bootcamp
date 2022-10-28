@@ -7,3 +7,9 @@
     align-items: center;
     position: relative;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin-top: 90px;
+    }
+}

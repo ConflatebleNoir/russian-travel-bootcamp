@@ -4,5 +4,16 @@
     flex-direction: column;
     row-gap: 26px;
     margin: 0;
+}
 
+@media screen and (max-width: 1280px) {
+    .place__wrapper-text {
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place__wrapper-text {
+        max-width: 352px;
+    }
 }
