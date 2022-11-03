@@ -3,9 +3,9 @@
     min-height: 740px;
     background-image: url(../../../images/cover_background.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
-    opacity: 0.8;
+    opacity: 0.3;
     position: absolute;
     transition: .7s ease;
     z-index: 1;
