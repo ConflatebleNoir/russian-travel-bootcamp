@@ -5,21 +5,21 @@
     text-align: left;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
     .intro {
         max-width: 928px;
         margin-top: 88px;
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .intro {
         margin: 88px auto 0 auto;
         max-width: 720px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .intro {
         margin: 64px 16px 0 16px;
     }
