@@ -1,8 +1,15 @@
-# ПР3
+# ПР3 Russian Travel
 ---
-## В данном проекте отрабатывались изученные знания:
+## Простой проект с версткой лендинга и отработкой некоторых задач:
 
 1. transitions;
 2. Отзывчивая адаптивная верстка;
 3. Публикация проекта на GH Pages;
-4. https://conflateblenoir.github.io/mesto-project-bootcamp/
+4. Демо - https://conflateblenoir.github.io/russian-travel-bootcamp/
+
+### Стек:
+
+1. HTML;
+2. CSS;
+
+### Статус - завершен.
